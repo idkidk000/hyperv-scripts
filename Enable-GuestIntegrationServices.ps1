@@ -1,0 +1,1 @@
+﻿Enable-VMIntegrationService -Name * -VMName *

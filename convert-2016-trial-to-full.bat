@@ -1,0 +1,1 @@
+dism /online /set-edition:serverstandard /productkey:WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY /accepteula
